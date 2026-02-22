@@ -27,8 +27,8 @@ and ranked according to their level of mathematical rigor:
 - Level 2 (:warning:): Operators employed, no discussion of Hilbert spaces or operator properties
 - Level 3 (:radioactive:): Discussion relies on Dirac notation, properties of Hilbert spaces and their generating operators
 
-| Potential               | System              | Lesson Directory     | Description | Level |
-|:-----------------------:|
+| Potential               | System              | Lesson Directory     | Description                                                                     | Level         |
+|:-----------------------:|:--------------------|:---------------------|:--------------------------------------------------------------------------------|:-------------:|
 | Zero                    | Free Particle       | `free-particle-L2`   | Explores complex-valued solutions to the free particle wave equation            | :warning:     |
 |                         |                     | `free-particle-L3`   | Explores properties of Hamiltonian eigenstates in momentum space                | :radioactive: |
 | Infinite Square Well    | 1D PiB              | `particle-1d-box-L2` | Explores 1-dimensional PiB eigenstates & properties w/ Heisenberg               | :warning:     |
