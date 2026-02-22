@@ -22,7 +22,7 @@ CI skills and mathematical concepts.
 |                                                 | Time Evolution of Operator Eigenstates                                 |                    |                    |                    |                    |
 |                                                 | Variation Principle                                                    |                    |                    |                    |                    |
 |                                                 |                                                                        |                    |                    |                    |                    |
-| Exactly Solvable Toy Systems                    | The Free Particle                                                      |                    |                    |                    |                    |
+| Exactly Solvable 1-Electron Systems             | The Free Particle                                                      |                    |                    |                    |                    |
 |                                                 | Particle in a 1-Dimensional Box                                        |                    |                    |                    |                    |
 |                                                 | Particle in a 3-Dimensional Box                                        |                    |                    |                    |                    |
 |                                                 | Particle in a 1-Dimensional Harmonic Trap                              |                    |                    |                    |                    |
@@ -31,6 +31,7 @@ CI skills and mathematical concepts.
 |                                                 | Particle in an Infinite Square Well                                    |                    |                    |                    |                    |
 |                                                 | Particle in an Infinite Circular Well                                  |                    |                    |                    |                    |
 |                                                 | Particle in an Infinite Spherical Well                                 |                    |                    |                    |                    |
+|                                                 | The Hydrogen Atom                                                      |                    |                    |                    |                    |
 |                                                 |                                                                        |                    |                    |                    |                    |
 | Approximate Solution Methods                    | Method of Linear Variations                                            |                    |                    |                    |                    |
 |                                                 | Nondegenerate Perturbation Theory                                      |                    |                    |                    |                    |
