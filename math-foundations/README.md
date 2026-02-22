@@ -6,14 +6,15 @@ leveraging CI skills, not necessarily to teach physical chemistry.
 
 #### Contents
 
-| Module         | Lessons                                                   | Beta?                 | Pilot?                | Deploy?               |
-|:---------------|:----------------------------------------------------------|:---------------------:|:---------------------:|:---------------------:|
-|                |                                                           |                       |                       |                       |
-| Calculus       | Calculus of Scalar Functions                              |                       |                       |                       |
-|                | Vector Calculus                                           |                       |                       |                       |
-| Linear Algebra | Foundational Linear Algebra                               |                       |                       |                       |
-|                | Vector Spaces                                             |                       |                       |                       |
-|                | Operators, Operator Properties, & Operator Eigenproblems  |                       |                       |                       |
-| Statistics     | Uncertainty Analysis of Measured Data                     |                       |                       |                       |
-|                | Uncertainty Propagation in Derived Results                |                       |                       |                       |
-|                |                                                           |                       |                       |                       |
+| Module         | Lessons                                                   | Dev?               | Beta?              | Pilot?             | Deploy?               |
+|:---------------|:----------------------------------------------------------|:------------------:|:------------------:|:------------------:|:---------------------:|
+| Calculus       | Calculus of Scalar Functions                              | :white_check_mark: | :white_check_mark: | :white_check_mark: |                       |
+|                | Vector Calculus                                           |                    |                    |                    |                       |
+|                |                                                           |                    |                    |                    |                       |
+| Linear Algebra | Foundational Linear Algebra                               |                    |                    |                    |                       |
+|                | Vector Spaces                                             |                    |                    |                    |                       |
+|                | Operators, Operator Properties, & Operator Eigenproblems  | :white_check_mark: | :white_check_mark: | :white_check_mark: |                       |
+|                |                                                           |                    |                    |                    |                       |
+| Statistics     | Uncertainty Analysis of Measured Data                     |                    |                    |                    |                       |
+|                | Uncertainty Propagation in Derived Results                |                    |                    |                    |                       |
+|                |                                                           |                    |                    |                    |                       |
