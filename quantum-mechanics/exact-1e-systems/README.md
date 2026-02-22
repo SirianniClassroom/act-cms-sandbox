@@ -25,22 +25,22 @@ Lessons in this module are grouped according to the toy system under considerati
 and ranked according to their level of mathematical rigor:
 - Level 1 (:atom:): Purely wave-equation based discussion, no operators employed
 - Level 2 (:warning:): Operators employed, no discussion of Hilbert spaces or operator properties
-- Level 3 (:radioactive:): Discussion relies on Dirac notation, properties of Hilbert spaces and their generating operators
+- Level 3 (:rotating_light:): Discussion relies on Dirac notation, properties of Hilbert spaces and their generating operators
 
-| Potential               | System              | Lesson Directory     | Description                                                                     | Level         |
-|:-----------------------:|:--------------------|:---------------------|:--------------------------------------------------------------------------------|:-------------:|
-| Zero                    | Free Particle       | `free-particle-L2`   | Explores complex-valued solutions to the free particle wave equation            | :warning:     |
-|                         |                     | `free-particle-L3`   | Explores properties of Hamiltonian eigenstates in momentum space                | :radioactive: |
-| Infinite Square Well    | 1D PiB              | `particle-1d-box-L2` | Explores 1-dimensional PiB eigenstates & properties w/ Heisenberg               | :warning:     |
-|                         |                     | `particle-1d-box-L3` | Explores 1D PiB eigenstates as basis for representing arbitrary function        | :radioactive: |
-|                         | 3D PiB              | `particle-3d-box-L2` | Solves 3D PiB with given direct product wavefunction, explores properties       | :warning:     |
-|                         | _N_D PiB            | `particle-Nd-box-L2` | Explores solution to infinite square well wave equation in arbitrary dimensions | :warning:     |
-| Infinite Circular Well  | Circular Well       |                      |                                                                                 |               |
-| Infinite Spherical Well | Spherical Well      |                      |                                                                                 |               |
-| Quadratic               | Harmonic Oscillator |                      |                                                                                 |               |
-| Angular Square Well     | 2D Rigid Rotator    |                      |                                                                                 |               | 
-|                         | 3D Rigid Rotator    |                      |                                                                                 |               | 
-| Coulombic               | Hydrogen Atom       |                      |                                                                                 |               |
+| Potential               | System              | Lesson Directory     | Description                                                                     | Level            |
+|:-----------------------:|:--------------------|:---------------------|:--------------------------------------------------------------------------------|:----------------:|
+| Zero                    | Free Particle       | `free-particle-L2`   | Explores complex-valued solutions to the free particle wave equation            | :warning:        |
+|                         |                     | `free-particle-L3`   | Explores properties of Hamiltonian eigenstates in momentum space                | :rotating_light: |
+| Infinite Square Well    | 1D PiB              | `particle-1d-box-L2` | Explores 1-dimensional PiB eigenstates & properties w/ Heisenberg               | :warning:        |
+|                         |                     | `particle-1d-box-L3` | Explores 1D PiB eigenstates as basis for representing arbitrary function        | :rotating_light: |
+|                         | 3D PiB              | `particle-3d-box-L2` | Solves 3D PiB with given direct product wavefunction, explores properties       | :warning:        |
+|                         | _N_D PiB            | `particle-Nd-box-L2` | Explores solution to infinite square well wave equation in arbitrary dimensions | :warning:        |
+| Infinite Circular Well  | Circular Well       |                      |                                                                                 |                  |
+| Infinite Spherical Well | Spherical Well      |                      |                                                                                 |                  |
+| Quadratic               | Harmonic Oscillator |                      |                                                                                 |                  |
+| Angular Square Well     | 2D Rigid Rotator    |                      |                                                                                 |                  | 
+|                         | 3D Rigid Rotator    |                      |                                                                                 |                  | 
+| Coulombic               | Hydrogen Atom       |                      |                                                                                 |                  |
 
 For further details on lesson learning outcomes, prerequisites, etc., please
 refer to the module contents.
